@@ -644,6 +644,3 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Image Synthesis for Self-Supervised Visual Representation Learning. Richard Zhang. [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-36.pdf).
 - Visual Learning beyond Direct Supervision. Tinghui Zhou. [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-128.pdf).
 - Visual Learning with Minimal Human Supervision. Ishan Misra. [[pdf]](https://www.ri.cmu.edu/publications/visual-learning-with-minimal-human-supervision/).
-
-## License
-To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) has waived all copyright and related or neighboring rights to this work.
